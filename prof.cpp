@@ -8,7 +8,7 @@ public:
          degree=" ";
          salary=0.0;
     }
-    Professor(string prof_degree,double stud_salary){
+    Professor(string prof_degree,double prof_salary){
         degree=prof_degree;
         salary=prof_salary;
     }
